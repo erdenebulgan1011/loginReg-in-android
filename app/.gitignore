@@ -1,1 +1,15 @@
-/build
+# Android Studio/IntelliJ
+.idea/
+*.iml
+.gradle/
+local.properties
+build/
+captures/
+
+# macOS
+.DS_Store
+
+# Android build outputs
+*.apk
+*.ap_
+*.aab
